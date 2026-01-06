@@ -72,10 +72,9 @@ Retail sales performance analysis
 
 Forecasting and decision support
 
-ScreenShot
-Show the how dashboard look like:-
-Sales Dashboard (https://github.com/Amnishbeniwal/Super-store-sales-powebi-dashboard/blob/main/Sales%20Dashboard.png)
-Forecast Dashboard (https://github.com/Amnishbeniwal/Super-store-sales-powebi-dashboard/blob/main/Forecast%20Dashboard.png)
+how dashboard look like:-
 
 [![Sales Dashboard](https://raw.githubusercontent.com/Amnishbeniwal/Super-store-sales-powebi-dashboard/main/Sales%20Dashboard.png)]
+[![Forecast Dashboard](https://github.com/Amnishbeniwal/Super-store-sales-powebi-dashboard/blob/main/Forecast%20Dashboard.png)]
+
 
